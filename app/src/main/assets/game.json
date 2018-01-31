@@ -1,0 +1,2578 @@
+[
+    {
+      "id": 360,
+      "remark": "AG捕鱼王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/gameBarnner-201801261101515825.JPG",
+      "tag": "FISHHUNTER",
+      "dz_gameid": ""
+    },
+    {
+      "id": 512,
+      "remark": "开心点心",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_WinSumDimSum_zh.png",
+      "tag": "MG",
+      "dz_gameid": "61501"
+    },
+    {
+      "id": 513,
+      "remark": "惑星战记",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5005"
+    },
+    {
+      "id": 514,
+      "remark": "钻石水果盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5043"
+    },
+    {
+      "id": 515,
+      "remark": "钻石列车",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5083"
+    },
+    {
+      "id": 516,
+      "remark": "足球拉霸",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5066"
+    },
+    {
+      "id": 517,
+      "remark": "鱼虾蟹",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5039"
+    },
+    {
+      "id": 518,
+      "remark": "夜市人生",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5402"
+    },
+    {
+      "id": 519,
+      "remark": "幸运财神",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5030"
+    },
+    {
+      "id": 520,
+      "remark": "喜福牛年",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5835"
+    },
+    {
+      "id": 521,
+      "remark": "喜福猴年",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5837"
+    },
+    {
+      "id": 522,
+      "remark": "外星争霸",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5012"
+    },
+    {
+      "id": 523,
+      "remark": "外星战记",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5010"
+    },
+    {
+      "id": 524,
+      "remark": "筒子拉霸",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5065"
+    },
+    {
+      "id": 525,
+      "remark": "糖果派对",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5902"
+    },
+    {
+      "id": 526,
+      "remark": "水果乐园",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5019"
+    },
+    {
+      "id": 527,
+      "remark": "水果拉霸",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5063"
+    },
+    {
+      "id": 528,
+      "remark": "水果大转轮",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5077"
+    },
+    {
+      "id": 529,
+      "remark": "数字大转轮",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5076"
+    },
+    {
+      "id": 530,
+      "remark": "圣兽传说",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5084"
+    },
+    {
+      "id": 531,
+      "remark": "沙滩排球",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5404"
+    },
+    {
+      "id": 532,
+      "remark": "三国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5106"
+    },
+    {
+      "id": 533,
+      "remark": "扑克拉霸",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5064"
+    },
+    {
+      "id": 534,
+      "remark": "欧式轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5105"
+    },
+    {
+      "id": 535,
+      "remark": "明星97II",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5044"
+    },
+    {
+      "id": 536,
+      "remark": "明星97",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5057"
+    },
+    {
+      "id": 537,
+      "remark": "美式轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5107"
+    },
+    {
+      "id": 538,
+      "remark": "龙在囧途",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5062"
+    },
+    {
+      "id": 539,
+      "remark": "连环夺宝",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5901"
+    },
+    {
+      "id": 540,
+      "remark": "凯萨帝国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5805"
+    },
+    {
+      "id": 541,
+      "remark": "金瓶梅2",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5094"
+    },
+    {
+      "id": 542,
+      "remark": "惑星战记",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5005"
+    },
+    {
+      "id": 543,
+      "remark": "红狗",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5089"
+    },
+    {
+      "id": 544,
+      "remark": "航海时代",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5810"
+    },
+    {
+      "id": 545,
+      "remark": "海豚世界",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5801"
+    },
+    {
+      "id": 546,
+      "remark": "疯狂水果盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5058"
+    },
+    {
+      "id": 547,
+      "remark": "法式轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5109"
+    },
+    {
+      "id": 548,
+      "remark": "发大财",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5823"
+    },
+    {
+      "id": 549,
+      "remark": "恶龙传说",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5824"
+    },
+    {
+      "id": 550,
+      "remark": "斗鸡",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5095"
+    },
+    {
+      "id": 551,
+      "remark": "斗大",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5088"
+    },
+    {
+      "id": 552,
+      "remark": "大红帽与小野狼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5407"
+    },
+    {
+      "id": 553,
+      "remark": "丛林",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5014"
+    },
+    {
+      "id": 554,
+      "remark": "传统",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5013"
+    },
+    {
+      "id": 555,
+      "remark": "超级7",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5061"
+    },
+    {
+      "id": 556,
+      "remark": "彩金轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5108"
+    },
+    {
+      "id": 557,
+      "remark": "霸王龙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5828"
+    },
+    {
+      "id": 558,
+      "remark": "阿兹特克宝藏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5803"
+    },
+    {
+      "id": 559,
+      "remark": "FIFA2010",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "BBINDZ",
+      "dz_gameid": "5015"
+    },
+    {
+      "id": 560,
+      "remark": "2014FIFA",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/gameBarnner-201801310901004878.png",
+      "tag": "BBINDZ",
+      "dz_gameid": "5204"
+    },
+    {
+      "id": 59,
+      "remark": "水果拉霸",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/B0414730906E5EA317C34C630A7346AC.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "B0414730906E5EA317C34C630A7346AC"
+    },
+    {
+      "id": 60,
+      "remark": "暑假时光",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/81E3BAB8C89217E5DF505A0CCB235C97.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "81E3BAB8C89217E5DF505A0CCB235C97"
+    },
+    {
+      "id": 61,
+      "remark": "酷派狼人",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/9AAB2184AD3D597FFB4FE807AE83E39D.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "9AAB2184AD3D597FFB4FE807AE83E39D"
+    },
+    {
+      "id": 62,
+      "remark": "足球之巅",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/EC5CB154D20C6AC3BDC00E43EA853703.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "EC5CB154D20C6AC3BDC00E43EA853703"
+    },
+    {
+      "id": 63,
+      "remark": "英伦时光",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/DC87B18163DDC4C3A110AA2AA207FB85.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "DC87B18163DDC4C3A110AA2AA207FB85"
+    },
+    {
+      "id": 64,
+      "remark": "幸运双星",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/98EBA2715C92C8D8A9D258F936F7973C.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "98EBA2715C92C8D8A9D258F936F7973C"
+    },
+    {
+      "id": 65,
+      "remark": "燃烧的欲望",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/E7F7D04DD8E8CEEAFEC657D1022DFD47.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "E7F7D04DD8E8CEEAFEC657D1022DFD47"
+    },
+    {
+      "id": 66,
+      "remark": "虎眼石",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/362D58A6C7D5C4DFCF4B90D223C743CB.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "362D58A6C7D5C4DFCF4B90D223C743CB"
+    },
+    {
+      "id": 67,
+      "remark": "不朽的浪漫",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/7742CC4BA75F35613DFA9611A2B6E978.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "7742CC4BA75F35613DFA9611A2B6E978"
+    },
+    {
+      "id": 68,
+      "remark": "砸金蛋",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/38D6CCC624359F4E57F052E7E8A52680.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "38D6CCC624359F4E57F052E7E8A52680"
+    },
+    {
+      "id": 69,
+      "remark": "摆脱",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/5E6FC6DD49AB66D0B710DD2D10965F77.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "5E6FC6DD49AB66D0B710DD2D10965F77"
+    },
+    {
+      "id": 70,
+      "remark": "抢红包",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/614BC6F0EEFC1947CB73804639BFACD0.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "614BC6F0EEFC1947CB73804639BFACD0"
+    },
+    {
+      "id": 71,
+      "remark": "丛林快讯",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/2AD22886E3C4607198CC6100AD21CB92.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "2AD22886E3C4607198CC6100AD21CB92"
+    },
+    {
+      "id": 72,
+      "remark": "大航海时代",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/66D493C2847E1CB0D9F9BED78EA073A7.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "66D493C2847E1CB0D9F9BED78EA073A7"
+    },
+    {
+      "id": 73,
+      "remark": "猫头鹰",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/2814BA87965C66E48796E526DC4CAF84.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "2814BA87965C66E48796E526DC4CAF84"
+    },
+    {
+      "id": 74,
+      "remark": "狂欢节",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/0C8F733302F3B5E655C2FCD8470F5F68.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "0C8F733302F3B5E655C2FCD8470F5F68"
+    },
+    {
+      "id": 75,
+      "remark": "海滨嘉年华",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/52BF1B9C7B1612BFBBE6F625E94D7703.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "52BF1B9C7B1612BFBBE6F625E94D7703"
+    },
+    {
+      "id": 76,
+      "remark": "星光之吻",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/8E5BFAE9CD252684EC14E0FC1B90F01D.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "8E5BFAE9CD252684EC14E0FC1B90F01D"
+    },
+    {
+      "id": 77,
+      "remark": "宝殿",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/2F08D881C2109AC8C93B04D0A44087CC.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "2F08D881C2109AC8C93B04D0A44087CC"
+    },
+    {
+      "id": 78,
+      "remark": "淑女之夜",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/F0D48D9B8315C5B5B407C53F7659C49A.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "F0D48D9B8315C5B5B407C53F7659C49A"
+    },
+    {
+      "id": 79,
+      "remark": "液体黄金",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/4051010F607E9AB0D410D6BD81E35BE6.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "4051010F607E9AB0D410D6BD81E35BE6"
+    },
+    {
+      "id": 80,
+      "remark": "阿瓦隆",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/6220D5C11E85F8ADA6CD48DAFEC4D4D9.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "6220D5C11E85F8ADA6CD48DAFEC4D4D9"
+    },
+    {
+      "id": 81,
+      "remark": "马戏团",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/7A165B313336D54124532648E4393499.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "7A165B313336D54124532648E4393499"
+    },
+    {
+      "id": 82,
+      "remark": "东方美人",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/9EB52D2160581297342E9E770F5C0A21.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "9EB52D2160581297342E9E770F5C0A21"
+    },
+    {
+      "id": 83,
+      "remark": "少林宝藏",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/D1E8AC96AF069DC0509B5BE3A7B7578D.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "D1E8AC96AF069DC0509B5BE3A7B7578D"
+    },
+    {
+      "id": 84,
+      "remark": "俏佳人",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/BBDEB07D79D35D883AE260750471C048.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "BBDEB07D79D35D883AE260750471C048"
+    },
+    {
+      "id": 85,
+      "remark": "樱桃之恋",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/154D16492D89F483A0F175FC1A50342A.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "154D16492D89F483A0F175FC1A50342A"
+    },
+    {
+      "id": 86,
+      "remark": "熊之舞",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/EA65DC3C848B36A5E7DF872D950DB0CB.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "EA65DC3C848B36A5E7DF872D950DB0CB"
+    },
+    {
+      "id": 87,
+      "remark": "高速公路之王",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/9E98C63CE694A4029DC5ED0A88AB4837.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "9E98C63CE694A4029DC5ED0A88AB4837"
+    },
+    {
+      "id": 88,
+      "remark": "钢铁人3",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/A1FE6ED14DC4808BBC76DED7DF941211.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "A1FE6ED14DC4808BBC76DED7DF941211"
+    },
+    {
+      "id": 89,
+      "remark": "法老王的秘密",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/0BFEBABE792975E2A68CD7F0CCEFAC8C.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "0BFEBABE792975E2A68CD7F0CCEFAC8C"
+    },
+    {
+      "id": 90,
+      "remark": "船长的宝藏",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/19EF0C0414CC305560AA045FBD46588F.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "19EF0C0414CC305560AA045FBD46588F"
+    },
+    {
+      "id": 91,
+      "remark": "淘金疯狂",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/023D34A59BC185B665CFC6E08E17D878.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "023D34A59BC185B665CFC6E08E17D878"
+    },
+    {
+      "id": 92,
+      "remark": "超级龙卷风",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/87AE465A6CD7A7CC0BA5A127E6052398.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "87AE465A6CD7A7CC0BA5A127E6052398"
+    },
+    {
+      "id": 93,
+      "remark": "宁财神",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/70C1A9AC59036325BD15DC1322780162.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "70C1A9AC59036325BD15DC1322780162"
+    },
+    {
+      "id": 94,
+      "remark": "奔驰宝马",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/1BA2832A77864956B4B18D70AAFF5097.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "1BA2832A77864956B4B18D70AAFF5097"
+    },
+    {
+      "id": 95,
+      "remark": "赌王水果机",
+      "imgs": "http:\/\/h5.hzgameing.com\/upload\/7463C040395A4F36B417C0F0CA472C4B.jpg",
+      "tag": "HEZONEDZ",
+      "dz_gameid": "7463C040395A4F36B417C0F0CA472C4B"
+    },
+    {
+      "id": 96,
+      "remark": "Amazon Wild",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/amazon_wild.jpg",
+      "tag": "PT",
+      "dz_gameid": "ashamw"
+    },
+    {
+      "id": 97,
+      "remark": "武则天",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/heavenly_ruler.png",
+      "tag": "PT",
+      "dz_gameid": "heavru"
+    },
+    {
+      "id": 98,
+      "remark": "孙悟空",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/SunWuKong_SourceFile_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "gtsswk"
+    },
+    {
+      "id": 99,
+      "remark": "玉皇大帝",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Jade_Emperor_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "gtsje"
+    },
+    {
+      "id": 100,
+      "remark": "顶级王牌-明星",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/top_trumps.jpg",
+      "tag": "PT",
+      "dz_gameid": "ttc"
+    },
+    {
+      "id": 101,
+      "remark": "幸运狮子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Fortune_Lions.png",
+      "tag": "PT",
+      "dz_gameid": "frtln"
+    },
+    {
+      "id": 102,
+      "remark": "戴图理的神奇七大奖",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/frankie_dettori_magic_seven_jackpot.jpg",
+      "tag": "PT",
+      "dz_gameid": "fdtjg"
+    },
+    {
+      "id": 103,
+      "remark": "戴图理的神奇七",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Frankies-Fantastic-7.jpg",
+      "tag": "PT",
+      "dz_gameid": "fdt"
+    },
+    {
+      "id": 104,
+      "remark": "粉红豹",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/pink_panthe.jpg",
+      "tag": "PT",
+      "dz_gameid": "pnp"
+    },
+    {
+      "id": 105,
+      "remark": "开心假期",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/vacation_station.jpg",
+      "tag": "PT",
+      "dz_gameid": "er"
+    },
+    {
+      "id": 106,
+      "remark": "印加帝国头奖",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Inca_JackPot_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "aztec"
+    },
+    {
+      "id": 362,
+      "remark": "时空英豪",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Highlander_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71334"
+    },
+    {
+      "id": 107,
+      "remark": "火热KTV",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Hot_KTV.png",
+      "tag": "PT",
+      "dz_gameid": "hotktv"
+    },
+    {
+      "id": 363,
+      "remark": "圣诞企鹅",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_HollyJollyPenguins_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71336"
+    },
+    {
+      "id": 108,
+      "remark": "超级888",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Chaoji_888_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "chao"
+    },
+    {
+      "id": 109,
+      "remark": "角斗士彩池游戏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/gladiator_jackpot.jpg",
+      "tag": "PT",
+      "dz_gameid": "glrj"
+    },
+    {
+      "id": 365,
+      "remark": "圣诞老人的百塔摩多车",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SantasWildRide1_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71338"
+    },
+    {
+      "id": 110,
+      "remark": "日日进财",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/RiRiJinCai_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "ririjc"
+    },
+    {
+      "id": 366,
+      "remark": "小气财神",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Scrooge1_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71340"
+    },
+    {
+      "id": 111,
+      "remark": "疯狂乐透",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/lotto_madness.jpg",
+      "tag": "PT",
+      "dz_gameid": "lm"
+    },
+    {
+      "id": 367,
+      "remark": "黑胶热舞",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_VinylCountdown4_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71342"
+    },
+    {
+      "id": 112,
+      "remark": "招财童子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/ZhaoCaiTongZi_SOURCE_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "zctz"
+    },
+    {
+      "id": 368,
+      "remark": "108好汉",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_108Heroes._ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70715"
+    },
+    {
+      "id": 113,
+      "remark": "黄金之旅",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/golden_tour.jpg",
+      "tag": "PT",
+      "dz_gameid": "gos"
+    },
+    {
+      "id": 369,
+      "remark": "108好汉乘数财富",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_108HeroesMF_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70868"
+    },
+    {
+      "id": 114,
+      "remark": "吉祥8",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Ji_Xiang.png",
+      "tag": "PT",
+      "dz_gameid": "gtsjxb"
+    },
+    {
+      "id": 370,
+      "remark": "5卷的驱动器",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_5ReelDrive1.png",
+      "tag": "MG",
+      "dz_gameid": "28118"
+    },
+    {
+      "id": 115,
+      "remark": "水牛闪电",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/buffalo_blitz_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "bfb"
+    },
+    {
+      "id": 371,
+      "remark": "王牌和八面",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "MG",
+      "dz_gameid": "28684"
+    },
+    {
+      "id": 116,
+      "remark": "疯狂麻将",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Feng_Kuang_Ma_Jiang_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "fkmj"
+    },
+    {
+      "id": 372,
+      "remark": "王牌和面孔",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AcesFaces1.png",
+      "tag": "MG",
+      "dz_gameid": "28690"
+    },
+    {
+      "id": 117,
+      "remark": "Halloween Fortune II",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Halloween Fortune_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "hlf2"
+    },
+    {
+      "id": 373,
+      "remark": "冒险宫殿",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AdventurePalaceHD.png",
+      "tag": "MG",
+      "dz_gameid": "28688"
+    },
+    {
+      "id": 118,
+      "remark": "爱尔兰运气",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/irish_luck.jpg",
+      "tag": "PT",
+      "dz_gameid": "irl"
+    },
+    {
+      "id": 374,
+      "remark": "史地大发现",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AgeofDiscovery3.png",
+      "tag": "MG",
+      "dz_gameid": "28692"
+    },
+    {
+      "id": 119,
+      "remark": "神灵时代：命运姐妹",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Age_of_the_Gods_Fate_Sisters_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "ftsis"
+    },
+    {
+      "id": 375,
+      "remark": "特务珍金",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AgentJaneBlonde7.png",
+      "tag": "MG",
+      "dz_gameid": "28698"
+    },
+    {
+      "id": 120,
+      "remark": "Monty Python´s Life of Brian",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Sourcefile_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "ashlob"
+    },
+    {
+      "id": 376,
+      "remark": "阿拉斯加捕捞",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AlaskanFishing1.png",
+      "tag": "MG",
+      "dz_gameid": "28700"
+    },
+    {
+      "id": 121,
+      "remark": "黄金版游戏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/golden_games.jpg",
+      "tag": "PT",
+      "dz_gameid": "glg"
+    },
+    {
+      "id": 377,
+      "remark": "亚洲美人",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AsianBeauty1.png",
+      "tag": "MG",
+      "dz_gameid": "45531"
+    },
+    {
+      "id": 122,
+      "remark": "大胆的戴夫和荷鲁斯之眼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/daring_dave_and_eye_of_ra.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsdrdv"
+    },
+    {
+      "id": 378,
+      "remark": "阿瓦隆",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_AvalonHD_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "28702"
+    },
+    {
+      "id": 123,
+      "remark": "Bounty of the Beanstalk",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/bounty_of_the_beanstalk.jpg",
+      "tag": "PT",
+      "dz_gameid": "ashbob"
+    },
+    {
+      "id": 379,
+      "remark": "美国酒吧",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_barsandstripes.png",
+      "tag": "MG",
+      "dz_gameid": "28682"
+    },
+    {
+      "id": 124,
+      "remark": "小猪与狼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/piggle_wolf.jpg",
+      "tag": "PT",
+      "dz_gameid": "paw"
+    },
+    {
+      "id": 380,
+      "remark": "篮球巨星",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BasketballStar_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "45539"
+    },
+    {
+      "id": 125,
+      "remark": "三剑客和女王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/three_musketeers_and_the_queen.jpg",
+      "tag": "PT",
+      "dz_gameid": "tmqd"
+    },
+    {
+      "id": 381,
+      "remark": "沙滩宝贝",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_beachbabes.png",
+      "tag": "MG",
+      "dz_gameid": "28704"
+    },
+    {
+      "id": 126,
+      "remark": "浮冰流",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/ice_run.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsir"
+    },
+    {
+      "id": 382,
+      "remark": "美丽骷髅",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BeautifulBones_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70527"
+    },
+    {
+      "id": 127,
+      "remark": "龙之王国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/dragon_kingdom.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsdgk"
+    },
+    {
+      "id": 383,
+      "remark": "马戏篷",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BigTop1.png",
+      "tag": "MG",
+      "dz_gameid": "28714"
+    },
+    {
+      "id": 128,
+      "remark": "黄金翅膀",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Wings-of-Gold.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtswng"
+    },
+    {
+      "id": 384,
+      "remark": "比基尼派对",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BikiniParty_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "46810"
+    },
+    {
+      "id": 129,
+      "remark": "疯狂维京海盗",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Vikingmania.jpg",
+      "tag": "PT",
+      "dz_gameid": "gts52"
+    },
+    {
+      "id": 385,
+      "remark": "疯狂奖金局末平分",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BonusDeucesWild1.png",
+      "tag": "MG",
+      "dz_gameid": "28718"
+    },
+    {
+      "id": 130,
+      "remark": "约翰韦恩",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/john_wayne.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsjhw"
+    },
+    {
+      "id": 386,
+      "remark": "冰球突破",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BreakAway1.png",
+      "tag": "MG",
+      "dz_gameid": "60467"
+    },
+    {
+      "id": 131,
+      "remark": "赌场HOLD'EM游戏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/casino_holdem.jpg",
+      "tag": "PT",
+      "dz_gameid": "cheaa"
+    },
+    {
+      "id": 387,
+      "remark": "抢银行",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BreakDaBank1.png",
+      "tag": "MG",
+      "dz_gameid": "28722"
+    },
+    {
+      "id": 132,
+      "remark": "欧式奖金轮盘赌",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/rou_premium_european.jpg",
+      "tag": "PT",
+      "dz_gameid": "ro_g"
+    },
+    {
+      "id": 388,
+      "remark": "银行爆破",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BreakDaBankAgain1.png",
+      "tag": "MG",
+      "dz_gameid": "29451"
+    },
+    {
+      "id": 133,
+      "remark": "美式奖金轮盘赌",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/rou_premium_american.jpg",
+      "tag": "PT",
+      "dz_gameid": "rodz_g"
+    },
+    {
+      "id": 389,
+      "remark": "伴娘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "MG",
+      "dz_gameid": "45529"
+    },
+    {
+      "id": 134,
+      "remark": "水果狂",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/fruit_mania.jpg",
+      "tag": "PT",
+      "dz_gameid": "fmn"
+    },
+    {
+      "id": 390,
+      "remark": "靶心",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Bullseye_Gameshow.png",
+      "tag": "MG",
+      "dz_gameid": "70836"
+    },
+    {
+      "id": 135,
+      "remark": "舞龙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/dragon_dance.jpg",
+      "tag": "PT",
+      "dz_gameid": "wlg"
+    },
+    {
+      "id": 391,
+      "remark": "燃烧的欲望",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BurningDesire1.png",
+      "tag": "MG",
+      "dz_gameid": "28730"
+    },
+    {
+      "id": 136,
+      "remark": "神的时代：智慧女神",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Age_of_the_Gods_Goddess_of_Wisdom_Athena_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "athn"
+    },
+    {
+      "id": 392,
+      "remark": "丛林摇摆",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_BushTelegraph1.png",
+      "tag": "MG",
+      "dz_gameid": "28732"
+    },
+    {
+      "id": 137,
+      "remark": "足球狂欢节",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/football_carnival.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsfc"
+    },
+    {
+      "id": 393,
+      "remark": "梦果子乐园",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CandyDreams_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70313"
+    },
+    {
+      "id": 138,
+      "remark": "五路财神",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/WuLuCaiShen_SourceFile.png",
+      "tag": "PT",
+      "dz_gameid": "wlcsh"
+    },
+    {
+      "id": 394,
+      "remark": "狂欢节",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Carnaval2.png",
+      "tag": "MG",
+      "dz_gameid": "28736"
+    },
+    {
+      "id": 139,
+      "remark": "五虎将",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/5TigerGenerals_SourceFile.png",
+      "tag": "PT",
+      "dz_gameid": "ftg"
+    },
+    {
+      "id": 395,
+      "remark": "财运疯狂",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CashCrazy9.png",
+      "tag": "MG",
+      "dz_gameid": "70794"
+    },
+    {
+      "id": 140,
+      "remark": "六福兽",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Liu_Fu_Shou_PSD_Source.png",
+      "tag": "PT",
+      "dz_gameid": "kfp"
+    },
+    {
+      "id": 396,
+      "remark": "昆虫派对",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Cashapillar1.png",
+      "tag": "MG",
+      "dz_gameid": "28750"
+    },
+    {
+      "id": 141,
+      "remark": "众神时代",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/AOG_source_file.png",
+      "tag": "PT",
+      "dz_gameid": "aogs"
+    },
+    {
+      "id": 397,
+      "remark": "城堡建筑师II",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CastleBuilder2_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70735"
+    },
+    {
+      "id": 142,
+      "remark": "黄金农场",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/spud-o-reilly_source_file.png",
+      "tag": "PT",
+      "dz_gameid": "spud"
+    },
+    {
+      "id": 398,
+      "remark": "中心球场",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CentreCourt1.png",
+      "tag": "MG",
+      "dz_gameid": "28742"
+    },
+    {
+      "id": 143,
+      "remark": "黑豹之月",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Panther_moon_source_file.jpg",
+      "tag": "PT",
+      "dz_gameid": "pmn"
+    },
+    {
+      "id": 399,
+      "remark": "经典243",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Classic243.png",
+      "tag": "MG",
+      "dz_gameid": "69004"
+    },
+    {
+      "id": 144,
+      "remark": "金钱蛙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/JinQianWa_SourceFil.jpg",
+      "tag": "PT",
+      "dz_gameid": "jqw"
+    },
+    {
+      "id": 400,
+      "remark": "经典黄金21点",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GoldSeries_ClassicBlackjack1.png",
+      "tag": "MG",
+      "dz_gameid": "28746"
+    },
+    {
+      "id": 145,
+      "remark": "宝物箱中寻",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Chests-of-Plenty-401x216-game-icon.jpg",
+      "tag": "PT",
+      "dz_gameid": "ashcpl"
+    },
+    {
+      "id": 401,
+      "remark": "运财酷儿-5卷轴",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CoolBuck_5Reel_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70143"
+    },
+    {
+      "id": 146,
+      "remark": "拉斯维加斯的猫",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Cat-In-Vegas-694x240-horizontal-banner-transparent.jpg",
+      "tag": "PT",
+      "dz_gameid": "ctiv"
+    },
+    {
+      "id": 402,
+      "remark": "酷狼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CoolWolf3.png",
+      "tag": "MG",
+      "dz_gameid": "70349"
+    },
+    {
+      "id": 147,
+      "remark": "罗马与荣耀",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Rome-and-Glory-401x216-game-icon.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsrng"
+    },
+    {
+      "id": 403,
+      "remark": "沙发土豆",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CouchPotato2.png",
+      "tag": "MG",
+      "dz_gameid": "28768"
+    },
+    {
+      "id": 148,
+      "remark": "大明帝国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Great_Ming_Single_PSD.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsgme"
+    },
+    {
+      "id": 404,
+      "remark": "疯狂变色龙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_CrazyChameleons1.png",
+      "tag": "MG",
+      "dz_gameid": "70796"
+    },
+    {
+      "id": 149,
+      "remark": "权杖女王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Queen-of-Wands-Source-File.jpg",
+      "tag": "PT",
+      "dz_gameid": "qnw"
+    },
+    {
+      "id": 405,
+      "remark": "闪亮的圣诞节？",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DeckTheHalls1.png",
+      "tag": "MG",
+      "dz_gameid": "28784"
+    },
+    {
+      "id": 150,
+      "remark": "海滨嘉年华",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Beach-Life.jpg",
+      "tag": "PT",
+      "dz_gameid": "bl"
+    },
+    {
+      "id": 406,
+      "remark": "万能两点",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DeucesWildPowerPoker1.png",
+      "tag": "MG",
+      "dz_gameid": "28792"
+    },
+    {
+      "id": 151,
+      "remark": "金色召集",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Gold-Rally.jpg",
+      "tag": "PT",
+      "dz_gameid": "grel"
+    },
+    {
+      "id": 407,
+      "remark": "寻访海豚",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DolphinQuest.png",
+      "tag": "MG",
+      "dz_gameid": "70876"
+    },
+    {
+      "id": 152,
+      "remark": "Fairest of them All",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Fairest_of_them_all_source_file.jpg",
+      "tag": "PT",
+      "dz_gameid": "ashfta"
+    },
+    {
+      "id": 408,
+      "remark": "换牌扑克",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DoubleDoubleBonus1.png",
+      "tag": "MG",
+      "dz_gameid": "28798"
+    },
+    {
+      "id": 153,
+      "remark": "年年有余",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Nian-Nian-You-Yu_source_file.jpg",
+      "tag": "PT",
+      "dz_gameid": "nian_k"
+    },
+    {
+      "id": 409,
+      "remark": "双重韦密",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DoubleWammy1.png",
+      "tag": "MG",
+      "dz_gameid": "70379"
+    },
+    {
+      "id": 154,
+      "remark": "无敌金刚",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/king_kong.jpg",
+      "tag": "PT",
+      "dz_gameid": "kkg"
+    },
+    {
+      "id": 410,
+      "remark": "舞龙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_DragonDance_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "46704"
+    },
+    {
+      "id": 155,
+      "remark": "热紫",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/photk.jpg",
+      "tag": "PT",
+      "dz_gameid": "photk"
+    },
+    {
+      "id": 411,
+      "remark": "幸运龙宝贝",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Dragonz_sc.jpg.png",
+      "tag": "MG",
+      "dz_gameid": "67415"
+    },
+    {
+      "id": 156,
+      "remark": "豪华的开心假期",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/vacation_station_deluxe.png",
+      "tag": "PT",
+      "dz_gameid": "vcstd"
+    },
+    {
+      "id": 412,
+      "remark": "老鹰的翅膀",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_EaglesWings1.png",
+      "tag": "MG",
+      "dz_gameid": "28802"
+    },
+    {
+      "id": 157,
+      "remark": "堂吉诃德的财富",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/riches_of_don_quixote.png",
+      "tag": "PT",
+      "dz_gameid": "donq"
+    },
+    {
+      "id": 413,
+      "remark": "表情金币",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_EmotiCoins_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70784"
+    },
+    {
+      "id": 158,
+      "remark": "招财进宝彩池游戏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Zhao Cai Jin Bao_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "zcjbjp"
+    },
+    {
+      "id": 414,
+      "remark": "青龙出海",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_EmperorOfTheSea_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "69660"
+    },
+    {
+      "id": 159,
+      "remark": "泰寺",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/thai_temple.png",
+      "tag": "PT",
+      "dz_gameid": "thtk"
+    },
+    {
+      "id": 415,
+      "remark": "歐式21点黄金桌",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GoldSeries_EuroBlackjack1.png",
+      "tag": "MG",
+      "dz_gameid": "28808"
+    },
+    {
+      "id": 160,
+      "remark": "非洲炙热",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/SafariHeat_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "sfh"
+    },
+    {
+      "id": 416,
+      "remark": "欧式轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "MG",
+      "dz_gameid": "28804"
+    },
+    {
+      "id": 161,
+      "remark": "赌徒:北极探险",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/WildGambler_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "ashwgaa"
+    },
+    {
+      "id": 417,
+      "remark": "派对鱼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_FishParty.png",
+      "tag": "MG",
+      "dz_gameid": "42249"
+    },
+    {
+      "id": 162,
+      "remark": "翡翠公主",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/FeiCui_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "fcgz"
+    },
+    {
+      "id": 418,
+      "remark": "足球明星",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_footballstar1.png",
+      "tag": "MG",
+      "dz_gameid": "28806"
+    },
+    {
+      "id": 163,
+      "remark": "鬼屋",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Haunted House_191X181.png",
+      "tag": "PT",
+      "dz_gameid": "hh"
+    },
+    {
+      "id": 419,
+      "remark": "禁忌王座",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ForbiddenThrone.png",
+      "tag": "MG",
+      "dz_gameid": "70305"
+    },
+    {
+      "id": 164,
+      "remark": "泰国天堂",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Thai Paradise_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "tpd2"
+    },
+    {
+      "id": 420,
+      "remark": "金库甜心",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_FortuneGirl_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70307"
+    },
+    {
+      "id": 165,
+      "remark": "熊之舞",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BonusBear_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "bob"
+    },
+    {
+      "id": 421,
+      "remark": "急冻钻石",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_FrozenDiamonds.png",
+      "tag": "MG",
+      "dz_gameid": "66082"
+    },
+    {
+      "id": 166,
+      "remark": "艺伎故事",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Geisha_Story_Jackpot_191X181.png",
+      "tag": "PT",
+      "dz_gameid": "ges"
+    },
+    {
+      "id": 422,
+      "remark": "水果VS糖果",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_FruitVsCandy_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "69002"
+    },
+    {
+      "id": 167,
+      "remark": "热力宝石",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/HotGems_191X181.png",
+      "tag": "PT",
+      "dz_gameid": "gts50"
+    },
+    {
+      "id": 423,
+      "remark": "美女枪手丛林激战",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GirlswithGuns1.png",
+      "tag": "MG",
+      "dz_gameid": "71275"
+    },
+    {
+      "id": 168,
+      "remark": "飞龙在天",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Fei Long Zai Tian_191x181.png",
+      "tag": "PT",
+      "dz_gameid": "gtsflzt"
+    },
+    {
+      "id": 424,
+      "remark": "矮木头",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GnomeWood_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70885"
+    },
+    {
+      "id": 169,
+      "remark": "一夜奇遇",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/night_out.jpg",
+      "tag": "PT",
+      "dz_gameid": "hb"
+    },
+    {
+      "id": 425,
+      "remark": "黄金时代",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GoldenEra.png",
+      "tag": "MG",
+      "dz_gameid": "45537"
+    },
+    {
+      "id": 170,
+      "remark": "万圣节财富",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/halloween_treasure.jpg",
+      "tag": "PT",
+      "dz_gameid": "hlf"
+    },
+    {
+      "id": 426,
+      "remark": "黄金公主",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GoldenPrincess.png",
+      "tag": "MG",
+      "dz_gameid": "69662"
+    },
+    {
+      "id": 171,
+      "remark": "中国厨房",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/china_kitchen.jpg",
+      "tag": "PT",
+      "dz_gameid": "cm"
+    },
+    {
+      "id": 427,
+      "remark": "黄金囊地鼠",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_GopherGold2.png",
+      "tag": "MG",
+      "dz_gameid": "70798"
+    },
+    {
+      "id": 172,
+      "remark": "趣味水果",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/funky_fruit.jpg",
+      "tag": "PT",
+      "dz_gameid": "fnfrj"
+    },
+    {
+      "id": 428,
+      "remark": "万圣劫",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Halloween.png",
+      "tag": "MG",
+      "dz_gameid": "70919"
+    },
+    {
+      "id": 173,
+      "remark": "猫女王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/cat_queen.jpg",
+      "tag": "PT",
+      "dz_gameid": "catqk"
+    },
+    {
+      "id": 429,
+      "remark": "万圣节",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Halloweenies1.png",
+      "tag": "MG",
+      "dz_gameid": "28818"
+    },
+    {
+      "id": 174,
+      "remark": "四象",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/SiXiang_SOURCE_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "sx"
+    },
+    {
+      "id": 430,
+      "remark": "快乐假日",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_HappyHolidays_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "45609"
+    },
+    {
+      "id": 175,
+      "remark": "Magical Stacks",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/MagicalStacks_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "mgstk"
+    },
+    {
+      "id": 431,
+      "remark": "地狱男爵",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_HellBoy1.png",
+      "tag": "MG",
+      "dz_gameid": "70529"
+    },
+    {
+      "id": 176,
+      "remark": "白狮王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/white_king.jpg",
+      "tag": "PT",
+      "dz_gameid": "whk"
+    },
+    {
+      "id": 432,
+      "remark": "上流社会",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_HighSociety.png",
+      "tag": "MG",
+      "dz_gameid": "28824"
+    },
+    {
+      "id": 177,
+      "remark": "白狮",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BaiShi_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "bs"
+    },
+    {
+      "id": 433,
+      "remark": "终极杀手",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Hitman1.png",
+      "tag": "MG",
+      "dz_gameid": "28832"
+    },
+    {
+      "id": 178,
+      "remark": "沙漠宝藏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Desert-Tressure-PSD-source.jpg",
+      "tag": "PT",
+      "dz_gameid": "dt"
+    },
+    {
+      "id": 434,
+      "remark": "轩辕帝传",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Huangdi_TheYellowEmperor_zh.png",
+      "tag": "MG",
+      "dz_gameid": "68622"
+    },
+    {
+      "id": 179,
+      "remark": "赌徒",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/wild_gambler.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtswg"
+    },
+    {
+      "id": 435,
+      "remark": "不朽情缘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ImmortalRomance1.png",
+      "tag": "MG",
+      "dz_gameid": "68624"
+    },
+    {
+      "id": 180,
+      "remark": "百慕大三角",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/bermuda_triangle.jpg",
+      "tag": "PT",
+      "dz_gameid": "bt"
+    },
+    {
+      "id": 436,
+      "remark": "埃及女神伊西絲",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_isis.png",
+      "tag": "MG",
+      "dz_gameid": "28936"
+    },
+    {
+      "id": 181,
+      "remark": "满月财富",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/fullmoon_fortunes.jpg",
+      "tag": "PT",
+      "dz_gameid": "ashfmf"
+    },
+    {
+      "id": 437,
+      "remark": "千斤顶或更好",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_JacksOrBetter1.png",
+      "tag": "MG",
+      "dz_gameid": "28942"
+    },
+    {
+      "id": 182,
+      "remark": "诙谐财富",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/foxy_fortunes.jpg",
+      "tag": "PT",
+      "dz_gameid": "fxf"
+    },
+    {
+      "id": 438,
+      "remark": "丛林吉姆-黄金国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Junglejim_zh.png",
+      "tag": "MG",
+      "dz_gameid": "66605"
+    },
+    {
+      "id": 183,
+      "remark": "法老王的秘密",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/pharaoh_secrets.jpg",
+      "tag": "PT",
+      "dz_gameid": "pst"
+    },
+    {
+      "id": 439,
+      "remark": "侏罗纪世界",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_JurassicWorld.png",
+      "tag": "MG",
+      "dz_gameid": "70656"
+    },
+    {
+      "id": 184,
+      "remark": "Cash back先生",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/cash_back.jpg",
+      "tag": "PT",
+      "dz_gameid": "mcb"
+    },
+    {
+      "id": 440,
+      "remark": "K歌乐韵",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_KaraokeParty_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "66078"
+    },
+    {
+      "id": 185,
+      "remark": "亚马逊的秘密",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/secrets_of_the_amazon.jpg",
+      "tag": "PT",
+      "dz_gameid": "samz"
+    },
+    {
+      "id": 441,
+      "remark": "卡萨缦都",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Kathmandu1.png",
+      "tag": "MG",
+      "dz_gameid": "28940"
+    },
+    {
+      "id": 186,
+      "remark": "亚特兰蒂斯女王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/atlantis_queen.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsatq"
+    },
+    {
+      "id": 442,
+      "remark": "大象之王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_KingTusk_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71283"
+    },
+    {
+      "id": 187,
+      "remark": "招财进宝",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Zhao Cai Jin Bao_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "zcjb"
+    },
+    {
+      "id": 443,
+      "remark": "女仕之夜",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LadiesNite5.png",
+      "tag": "MG",
+      "dz_gameid": "28944"
+    },
+    {
+      "id": 188,
+      "remark": "弓兵",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/archer.jpg",
+      "tag": "PT",
+      "dz_gameid": "arc"
+    },
+    {
+      "id": 444,
+      "remark": "红衣女郎",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LadyInRed2.png",
+      "tag": "MG",
+      "dz_gameid": "70840"
+    },
+    {
+      "id": 189,
+      "remark": "情圣博士",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/dr_lovemone.jpg",
+      "tag": "PT",
+      "dz_gameid": "dlm"
+    },
+    {
+      "id": 445,
+      "remark": "富裕人生",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LifeOfRiches_zh.png",
+      "tag": "MG",
+      "dz_gameid": "68623"
+    },
+    {
+      "id": 190,
+      "remark": "惊异之林",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/forest_wonders.jpg",
+      "tag": "PT",
+      "dz_gameid": "fow"
+    },
+    {
+      "id": 446,
+      "remark": "狮子的骄傲",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_lionsPride.png",
+      "tag": "MG",
+      "dz_gameid": "28946"
+    },
+    {
+      "id": 191,
+      "remark": "警察与土匪",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Cops-N-Bandits.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtscnb"
+    },
+    {
+      "id": 447,
+      "remark": "炫富一族",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Loaded1.png",
+      "tag": "MG",
+      "dz_gameid": "28948"
+    },
+    {
+      "id": 192,
+      "remark": "壮志凌云",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/TopGun_MarketingKit_216x183.png",
+      "tag": "PT",
+      "dz_gameid": "topg"
+    },
+    {
+      "id": 448,
+      "remark": "迷失拉斯维加斯",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LostVegas_zh.png",
+      "tag": "MG",
+      "dz_gameid": "66916"
+    },
+    {
+      "id": 193,
+      "remark": "非常幸运",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/final_fortune.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtspor"
+    },
+    {
+      "id": 449,
+      "remark": "幸运的锦鲤",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LuckyKoi.png",
+      "tag": "MG",
+      "dz_gameid": "45611"
+    },
+    {
+      "id": 194,
+      "remark": "夏洛克的秘密",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/sherlock_mystery.jpg",
+      "tag": "PT",
+      "dz_gameid": "shmst"
+    },
+    {
+      "id": 450,
+      "remark": "幸运双星",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_luckyTwins_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70221"
+    },
+    {
+      "id": 195,
+      "remark": "激情桑巴",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/brazil_samba.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtssmbr"
+    },
+    {
+      "id": 451,
+      "remark": "幸运生肖",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_LuckyZodiac_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70850"
+    },
+    {
+      "id": 196,
+      "remark": "玛丽莲·梦露",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/marilyn_monroe.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtsmrln"
+    },
+    {
+      "id": 452,
+      "remark": "疯狂的帽子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MadHatters1.png",
+      "tag": "MG",
+      "dz_gameid": "28950"
+    },
+    {
+      "id": 197,
+      "remark": "海王星王国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/neptunes_kingdom.jpg",
+      "tag": "PT",
+      "dz_gameid": "nk"
+    },
+    {
+      "id": 453,
+      "remark": "玛雅公主",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MayanPrincess1.png",
+      "tag": "MG",
+      "dz_gameid": "28952"
+    },
+    {
+      "id": 198,
+      "remark": "酷炫水果农场",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/crazy_fruit_farm.jpg",
+      "tag": "PT",
+      "dz_gameid": "fff"
+    },
+    {
+      "id": 454,
+      "remark": "巨额现金乘数",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MegaMoneyMultiplier.png",
+      "tag": "MG",
+      "dz_gameid": "70303"
+    },
+    {
+      "id": 199,
+      "remark": "终极足球",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/football_rules.jpg",
+      "tag": "PT",
+      "dz_gameid": "fbr"
+    },
+    {
+      "id": 455,
+      "remark": "海底世界",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MermaidsMillions1.png",
+      "tag": "MG",
+      "dz_gameid": "28956"
+    },
+    {
+      "id": 200,
+      "remark": "樱桃之恋",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/cherry_love.jpg",
+      "tag": "PT",
+      "dz_gameid": "chl"
+    },
+    {
+      "id": 456,
+      "remark": "白鲸记",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MobyDick.png",
+      "tag": "MG",
+      "dz_gameid": "71045"
+    },
+    {
+      "id": 201,
+      "remark": "我心狂野",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Wild-Spirit.jpg",
+      "tag": "PT",
+      "dz_gameid": "wis"
+    },
+    {
+      "id": 457,
+      "remark": "怪物赛车",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MonsterWheels_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70921"
+    },
+    {
+      "id": 202,
+      "remark": "青春之泉",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/fountain_of_youth.jpg",
+      "tag": "PT",
+      "dz_gameid": "foy"
+    },
+    {
+      "id": 458,
+      "remark": "怪兽曼琪肯",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Munchkins2.png",
+      "tag": "MG",
+      "dz_gameid": "70844"
+    },
+    {
+      "id": 203,
+      "remark": "洛基传奇",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/rocky.jpg",
+      "tag": "PT",
+      "dz_gameid": "rky"
+    },
+    {
+      "id": 459,
+      "remark": "神秘梦境",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_MysticDreams1.png",
+      "tag": "MG",
+      "dz_gameid": "28970"
+    },
+    {
+      "id": 204,
+      "remark": "爱之船",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/love_boat.jpg",
+      "tag": "PT",
+      "dz_gameid": "lvb"
+    },
+    {
+      "id": 460,
+      "remark": "呼撸撸爱上乡下",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_OinkCountryLove_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70790"
+    },
+    {
+      "id": 205,
+      "remark": "牛仔和外星人",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/cowboy_alien.jpg",
+      "tag": "PT",
+      "dz_gameid": "gtscbl"
+    },
+    {
+      "id": 461,
+      "remark": "躲猫猫",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_PeekABoo_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71273"
+    },
+    {
+      "id": 206,
+      "remark": "埃斯梅拉达",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/esmeralda.jpg",
+      "tag": "PT",
+      "dz_gameid": "esmk"
+    },
+    {
+      "id": 462,
+      "remark": "花花公子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Playboy.png",
+      "tag": "MG",
+      "dz_gameid": "70878"
+    },
+    {
+      "id": 207,
+      "remark": "奖金巨人",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/jackpot_giant.jpg",
+      "tag": "PT",
+      "dz_gameid": "jpgt"
+    },
+    {
+      "id": 463,
+      "remark": "花粉之国",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_PollenParty_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "69664"
+    },
+    {
+      "id": 208,
+      "remark": "好运连胜",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/streak_of_luck.jpg",
+      "tag": "PT",
+      "dz_gameid": "sol"
+    },
+    {
+      "id": 464,
+      "remark": "漂亮猫咪",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_prettykitty_zh.png",
+      "tag": "MG",
+      "dz_gameid": "61151"
+    },
+    {
+      "id": 209,
+      "remark": "企鹅假期",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/penguin_vacation.png",
+      "tag": "PT",
+      "dz_gameid": "pgv"
+    },
+    {
+      "id": 465,
+      "remark": "纯铂",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_PurePlatinum1.png",
+      "tag": "MG",
+      "dz_gameid": "28984"
+    },
+    {
+      "id": 210,
+      "remark": "古怪猴子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/funky_monkey.jpg",
+      "tag": "PT",
+      "dz_gameid": "fm"
+    },
+    {
+      "id": 466,
+      "remark": "宝石迷阵",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ReelGems1.png",
+      "tag": "MG",
+      "dz_gameid": "68778"
+    },
+    {
+      "id": 211,
+      "remark": "百家乐",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/baccarat_pt.jpg",
+      "tag": "PT",
+      "dz_gameid": "ba"
+    },
+    {
+      "id": 467,
+      "remark": "旋转大战",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ReelSpinner_zh.png",
+      "tag": "MG",
+      "dz_gameid": "61557"
+    },
+    {
+      "id": 212,
+      "remark": "湛蓝深海",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/great_blue.jpg",
+      "tag": "PT",
+      "dz_gameid": "bib"
+    },
+    {
+      "id": 468,
+      "remark": "卷行使价",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ReelStrike1.png",
+      "tag": "MG",
+      "dz_gameid": "70846"
+    },
+    {
+      "id": 213,
+      "remark": "高速公路之王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/highway_kings.jpg",
+      "tag": "PT",
+      "dz_gameid": "hk"
+    },
+    {
+      "id": 469,
+      "remark": "雷电击",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ReelThunder2.png",
+      "tag": "MG",
+      "dz_gameid": "29014"
+    },
+    {
+      "id": 214,
+      "remark": "船长的宝藏",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/captain_treasure.jpg",
+      "tag": "PT",
+      "dz_gameid": "ct"
+    },
+    {
+      "id": 470,
+      "remark": "复古旋转",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RetroReels1.png",
+      "tag": "MG",
+      "dz_gameid": "70225"
+    },
+    {
+      "id": 215,
+      "remark": "圣诞奇迹",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/santa_surprise.jpg",
+      "tag": "PT",
+      "dz_gameid": "ssp"
+    },
+    {
+      "id": 471,
+      "remark": "复古卷轴-极热",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RRExtreme1.png",
+      "tag": "MG",
+      "dz_gameid": "70223"
+    },
+    {
+      "id": 216,
+      "remark": "惊喜复活节",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/easter_surprise.jpg",
+      "tag": "PT",
+      "dz_gameid": "eas"
+    },
+    {
+      "id": 472,
+      "remark": "复古卷轴钻石耀眼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RRDiamondGlitz1.png",
+      "tag": "MG",
+      "dz_gameid": "70848"
+    },
+    {
+      "id": 217,
+      "remark": "甜蜜派对",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/sweet_party.jpg",
+      "tag": "PT",
+      "dz_gameid": "cnpr"
+    },
+    {
+      "id": 473,
+      "remark": "押韵的卷轴-心挞",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RRHearts&Tarts1.png",
+      "tag": "MG",
+      "dz_gameid": "70227"
+    },
+    {
+      "id": 218,
+      "remark": "海豚礁",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Dolphin_Reef_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "dnr"
+    },
+    {
+      "id": 474,
+      "remark": "橄榄球明星",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RugbyStar_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "45535"
+    },
+    {
+      "id": 219,
+      "remark": "宝石女王",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Gem_Queen_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "gemq"
+    },
+    {
+      "id": 475,
+      "remark": "秘密爱慕者",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SecretRomance_zh.png",
+      "tag": "MG",
+      "dz_gameid": "69000"
+    },
+    {
+      "id": 220,
+      "remark": "龙龙龙",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/long_long_long.png",
+      "tag": "PT",
+      "dz_gameid": "longlong"
+    },
+    {
+      "id": 476,
+      "remark": "上海美人",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ShanghaiBeauty.png",
+      "tag": "MG",
+      "dz_gameid": "66918"
+    },
+    {
+      "id": 221,
+      "remark": "神的时代：奥王宙斯",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Age_of_the_Gods_King_of_Olympus_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "zeus"
+    },
+    {
+      "id": 477,
+      "remark": "射击",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Shoot.png",
+      "tag": "MG",
+      "dz_gameid": "61153"
+    },
+    {
+      "id": 222,
+      "remark": "神的时代：奥林匹斯",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Age_of_the_Gods_Prince_of_Olympus_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "hrcls"
+    },
+    {
+      "id": 478,
+      "remark": "银芳",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SilverFang1.png",
+      "tag": "MG",
+      "dz_gameid": "29016"
+    },
+    {
+      "id": 223,
+      "remark": "真人法式轮盘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/European_roulette.jpg",
+      "tag": "PT",
+      "dz_gameid": "rofl"
+    },
+    {
+      "id": 479,
+      "remark": "杂技群英会",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SixAcrobats_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70697"
+    },
+    {
+      "id": 224,
+      "remark": "银子弹",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/silver_bullet.jpg",
+      "tag": "PT",
+      "dz_gameid": "sib"
+    },
+    {
+      "id": 480,
+      "remark": "怪兽多多",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_somanymonsters.png",
+      "tag": "MG",
+      "dz_gameid": "45541"
+    },
+    {
+      "id": 225,
+      "remark": "Adventures in Wonderland Delux",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Adventures_in_Wonderland_Deluxe.png",
+      "tag": "PT",
+      "dz_gameid": "ashadv"
+    },
+    {
+      "id": 481,
+      "remark": "糖果多多",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_somuchcandy.png",
+      "tag": "MG",
+      "dz_gameid": "45545"
+    },
+    {
+      "id": 226,
+      "remark": "日日生财",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/Ri_Ri_Sheng_Cai_138x125.png",
+      "tag": "PT",
+      "dz_gameid": "ririshc"
+    },
+    {
+      "id": 482,
+      "remark": "寿司多多",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_somuchsushi.png",
+      "tag": "MG",
+      "dz_gameid": "45543"
+    },
+    {
+      "id": 227,
+      "remark": "财富小姐",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/MissFortune.png",
+      "tag": "PT",
+      "dz_gameid": "mfrt"
+    },
+    {
+      "id": 483,
+      "remark": "春假",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SpringBreak2.png",
+      "tag": "MG",
+      "dz_gameid": "29018"
+    },
+    {
+      "id": 484,
+      "remark": "星尘",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_StarDust_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71043"
+    },
+    {
+      "id": 485,
+      "remark": "星梦之吻",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_StarlightKiss.png",
+      "tag": "MG",
+      "dz_gameid": "29026"
+    },
+    {
+      "id": 486,
+      "remark": "泰坦之藏匿",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_StashoftheTitans1.png",
+      "tag": "MG",
+      "dz_gameid": "29452"
+    },
+    {
+      "id": 487,
+      "remark": "纯银",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SterlingSilver3D1.png",
+      "tag": "MG",
+      "dz_gameid": "45533"
+    },
+    {
+      "id": 488,
+      "remark": "糖果巡游",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SugarParade_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70707"
+    },
+    {
+      "id": 489,
+      "remark": "夏天",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_summertime.png",
+      "tag": "MG",
+      "dz_gameid": "29050"
+    },
+    {
+      "id": 490,
+      "remark": "探索太阳",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SunQuest3.png",
+      "tag": "MG",
+      "dz_gameid": "70800"
+    },
+    {
+      "id": 491,
+      "remark": "太阳征程",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_SunTide_Button_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "50191"
+    },
+    {
+      "id": 492,
+      "remark": "泰利嗬",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TallyHo1.png",
+      "tag": "MG",
+      "dz_gameid": "29058"
+    },
+    {
+      "id": 493,
+      "remark": "泰山",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Tarzan_Button_en.png",
+      "tag": "MG",
+      "dz_gameid": "67723"
+    },
+    {
+      "id": 494,
+      "remark": "妹妹很饿",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TastyStreet_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70883"
+    },
+    {
+      "id": 495,
+      "remark": "好日子",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TheFinerReelsOfLife_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70893"
+    },
+    {
+      "id": 496,
+      "remark": "冒险之旅",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_thegrandjourney.png",
+      "tag": "MG",
+      "dz_gameid": "29453"
+    },
+    {
+      "id": 497,
+      "remark": "热力四射",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TheHeatIsOn.png",
+      "tag": "MG",
+      "dz_gameid": "69952"
+    },
+    {
+      "id": 498,
+      "remark": "歌剧魅影",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ThePhantomOfTheOpera_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "71175"
+    },
+    {
+      "id": 499,
+      "remark": "鼠包",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_RatPack1.png",
+      "tag": "MG",
+      "dz_gameid": "70923"
+    },
+    {
+      "id": 500,
+      "remark": "反转马戏团",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TwistedCircus.png",
+      "tag": "MG",
+      "dz_gameid": "29074"
+    },
+    {
+      "id": 501,
+      "remark": "雷神",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_Thunderstruck1.png",
+      "tag": "MG",
+      "dz_gameid": "29080"
+    },
+    {
+      "id": 502,
+      "remark": "雷神2",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_ThunderstruckTwo1.png",
+      "tag": "MG",
+      "dz_gameid": "29454"
+    },
+    {
+      "id": 503,
+      "remark": "老虎之眼",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_tigersEye.png",
+      "tag": "MG",
+      "dz_gameid": "29118"
+    },
+    {
+      "id": 504,
+      "remark": "太阳神之许珀里翁",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TitansOfTheSunHyperion_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70895"
+    },
+    {
+      "id": 505,
+      "remark": "太阳神之忒伊亚",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TitansOfTheSunTheia_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "70897"
+    },
+    {
+      "id": 506,
+      "remark": "古墓丽影",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_TombRaider2.png",
+      "tag": "MG",
+      "dz_gameid": "29126"
+    },
+    {
+      "id": 507,
+      "remark": "财宝宫殿",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/gameType\/ued\/",
+      "tag": "MG",
+      "dz_gameid": "29132"
+    },
+    {
+      "id": 508,
+      "remark": "大熊猫",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_UntamedGiantPanda.png",
+      "tag": "MG",
+      "dz_gameid": "42983"
+    },
+    {
+      "id": 509,
+      "remark": "瞧！",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_voila.png",
+      "tag": "MG",
+      "dz_gameid": "29136"
+    },
+    {
+      "id": 510,
+      "remark": "猫头鹰乐园",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_WhataHoot3.png",
+      "tag": "MG",
+      "dz_gameid": "29138"
+    },
+    {
+      "id": 511,
+      "remark": "东方珍兽",
+      "imgs": "http:\/\/image.jutetrading.com\/upload\/\/barnner\/ued\/BTN_WildOrient_Button_ZH.png",
+      "tag": "MG",
+      "dz_gameid": "50192"
+    }
+}
